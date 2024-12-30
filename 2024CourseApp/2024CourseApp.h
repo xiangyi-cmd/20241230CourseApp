@@ -1,0 +1,26 @@
+#pragma once
+
+void InitializeData();
+void DisplayMenu();
+void Signature();
+void listRecords();
+void listTeachers();
+void listCourses();
+void listStudents();
+void queryStudent();
+void queryCourse();
+void queryTeacher();
+void queryRecord();
+void addStudent();
+void addCourse();
+void addTeacher();
+void addRecord();
+void queryRecordByStudentId();
+void queryRecordByCourseId();
+void deleteStudent();
+void deleteCourse();
+void deleteTeacher();
+void deleteRecord();
+void modifyStudent();
+void modifyCourse();
+void modifyTeacher();
